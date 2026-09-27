@@ -1,0 +1,31 @@
+# Data
+*.csv
+*.xlsx
+*.xls
+*.tsv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local database dumps
+*.sql.gz
+*.dump
+*.bak
+
+# Local Power BI binary / autosave files
+*.pbi
+*.pbit
+~$*
